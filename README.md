@@ -28,14 +28,26 @@ access_token_secret = "your_access_token_secret"
 
 ## usage
 
+### post a tweet
+
 just run `xpost` and start typing
 
 **keyboard shortcuts:**
 - type to compose (multiline supported)
 - ctrl+v - paste image from clipboard
 - ctrl+u - upload image from file
-- ctrl+enter - post
+- ctrl+p - post
 - esc - exit
+
+### view post stats
+
+run `xpost stats` to view statistics for your recent posts
+
+**navigation:**
+- ↑/↓ - navigate through your posts
+- enter - view detailed stats (likes, retweets, replies, impressions)
+- esc - go back / exit
+- q - quit
 
 ## notes
 

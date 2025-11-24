@@ -17,3 +17,5 @@ anyhow = "1.0"
 tokio = { version = "1", features = ["full"] }
 image = "0.25"
 base64 = "0.22"
+tui-textarea = "0.6"
+chrono = { version = "0.4", features = ["serde"] }
